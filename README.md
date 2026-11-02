@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Diego! 👋
 
-<!--
-**Diggo21/Diggo21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **Analysis and Systems Development (ADS)** student at UDF, building my career with a focus on **Backend (Java)** and **Artificial Intelligence**.
 
-Here are some ideas to get you started:
+Currently, I am preparing for internship opportunities in AI and software development, creating hands-on projects that combine programming logic, databases, and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack
+- **Languages:** Java, Python, C, SQL
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code, MySQL Workbench
+- **AI:** Studies in LLMs, Prompt Engineering, and API integration.
+
+### 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/diego-o-nascimento-088a46433/)
